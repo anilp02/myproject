@@ -1,1 +1,2 @@
-hi new line added
+hi new line added 
+second file
