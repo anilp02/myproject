@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 new line added
+=======
+<<<<<<< HEAD tail
+hi conflict file
+jhgjhgfjhfrdytryt
+=======
+<<<<<<< HEAD
+hi conflict file.. adding line 25
+25/05/22
+=======
+hi remote machine 
+remote machine
+>>>>>>> b8388f80879187b81dec3d232c851572ab2e68ae jlkjhljhlj
+aded 
+>>>>>>> fddfef2a63b651c79d945df5371628ef2c06ceea
+>>>>>>> 48b3dc93dad943da8694ed0b4bcec828a2685786
