@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD tail
 hi conflict file
 jhgjhgfjhfrdytryt
 =======
