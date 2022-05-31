@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 deleted all the lines
 updating second file
 adding from loacal machine
@@ -9,3 +10,6 @@ third line added from local machine
 =======
 third line added from remote machine
 >>>>>>> 5fe238bf4dea1c9d0d286967d86cec4aa84ef19c
+=======
+new line added
+>>>>>>> e10ee53 (added changes)
