@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 hi conflict file.. adding line 25
 25/05/22
 hi remote machine 
 remote machine
 jhkjhjh
 lkjjoijoij
-=======
 new line added
->>>>>>> e10ee53 (added changes)
