@@ -4,4 +4,5 @@ hi conflict file.. adding line 25
 =======
 hi remote machine 
 remote machine
->>>>>>> b8388f80879187b81dec3d232c851572ab2e68ae
+>>>>>>> b8388f80879187b81dec3d232c851572ab2e68ae jlkjhljhlj
+aded 
