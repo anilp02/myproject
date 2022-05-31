@@ -2,4 +2,8 @@ deleted all the lines
 updating second file
 adding from loacal machine
 adding from remote machine
+<<<<<<< HEAD
 second line adding from local machine
+=======
+second line adding from remote machine
+>>>>>>> da4e205ee27bd71b3e3c9aa582e5c941ce6b8028
