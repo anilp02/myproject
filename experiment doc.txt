@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+hi conflict file.. adding line 25
+25/05/22
+=======
 hi remote machine 
 remote machine
+>>>>>>> b8388f80879187b81dec3d232c851572ab2e68ae
