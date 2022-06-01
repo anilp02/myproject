@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi conflict file.. adding line 25
 25/05/22
 hi remote machine 
@@ -8,6 +9,8 @@ lkjjoijoij
 new line added
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> qa
 deleted all the lines
 updating second file
 adding from loacal machine
@@ -22,4 +25,7 @@ third line added from remote machine
 =======
 new line added
 >>>>>>> e10ee53 (added changes)
+<<<<<<< HEAD
 >>>>>>> 476b8c1 (added changes)
+=======
+>>>>>>> qa
