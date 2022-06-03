@@ -3,10 +3,8 @@ adding first line from L M
 adding first line from LM 
 adding first line from RM
 adding another line
-<<<<<<< HEAD
 adding another line and deleted from LM
 adding another line asdfsads
 adfsdfsdf
 fasdfsadfsd
-=======
->>>>>>> parent of 9624886 (Merge branch 'qa' of https://github.com/anilp02/myproject into conflict-qa)
+git rebase example 
