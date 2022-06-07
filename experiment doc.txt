@@ -7,7 +7,7 @@ remote machine
 jhkjhjh
 lkjjoijoij
 new line added
-=======
+=====sfsadfsadfds==
 <<<<<<< HEAD
 =======
 >>>>>>> qa
