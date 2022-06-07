@@ -7,7 +7,11 @@ remote machine
 jhkjhjh
 lkjjoijoij
 new line added
+<<<<<<< HEAD
 =====sfsadfsadfds==
+=======
+=======sfdasdfsadfasfdsa
+>>>>>>> 5612cda5e32add6523a50c4326c05576e5f5a9d0
 <<<<<<< HEAD
 =======
 >>>>>>> qa
