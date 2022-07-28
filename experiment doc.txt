@@ -1,4 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+hi conflict file.. adding line 25
+25/05/22
+hi remote machine 
+remote machine
+jhkjhjh
+lkjjoijoij
+new line added
+<<<<<<< HEAD
+=====sfsadfsadfds==
+=======
+=======sfdasdfsadfasfdsa
+>>>>>>> 5612cda5e32add6523a50c4326c05576e5f5a9d0
+<<<<<<< HEAD
+=======
+>>>>>>> qa
 deleted all the lines
 updating second file
 adding from loacal machine
@@ -13,4 +29,11 @@ third line added from remote machine
 =======
 new line added
 >>>>>>> e10ee53 (added changes)
+<<<<<<< HEAD
 sdfasdfsafsadf
+=======
+<<<<<<< HEAD
+>>>>>>> 476b8c1 (added changes)
+=======
+>>>>>>> qa
+>>>>>>> beb1f2ef1076cd0305d5f1b2fb3c4ee0c22c7438
