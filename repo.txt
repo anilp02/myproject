@@ -1,4 +1,8 @@
 hi new line added 
+<<<<<<< HEAD
 second file
 asdfsadfasfdsafd
 asdfasfdasfddsf
+=======
+second file
+>>>>>>> parent of e7ad59a (added another file)
