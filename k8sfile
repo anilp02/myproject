@@ -2,7 +2,4 @@ new conflict line added
 service
 ingress
 line added remotly
-<<<<<<< HEAD
 meaningful message to this line in qa copy
-=======
->>>>>>> parent of 669c71c (Update k8sfile)
