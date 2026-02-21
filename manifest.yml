@@ -2,4 +2,4 @@
 applications:
 - name: testapp
   memory: 1G
-  instances: 1
+  instances: 0
