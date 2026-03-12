@@ -1,18 +1,12 @@
-
-
 pipeline {
-    agent {
-<<<<<<< HEAD:JenkinsFile
-        label 'Built-In-Node'
+    agent any
+    tools {
+        maven 'M3' // Use the exact name you specified in Global Tool Configuration
     }
-=======
-        label 'Master-new'
-          }
->>>>>>> 2e7c672de22626983e44d639bccfcd53897cf004:Jenkinsfile
     stages {
-        stage('Build') { 
+        stage('Build') {
             steps {
-                sh 'mvn -B -DskipTests clean package' 
+                sh 'mvn clean package'
             }
         }
     }
