@@ -2,7 +2,7 @@
 
 pipeline {
     agent {
-        label 'Master-New'
+        label 'Master-new'
           }
     stages {
         stage('Build') { 
